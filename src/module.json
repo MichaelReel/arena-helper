@@ -2,6 +2,9 @@
   "id": "arena-helper",
   "title": "Arena Helper",
   "description": "Some small tools to aid in creating a series of escalating battles",
+  "esmodules": [
+    "scripts/hello-world.js"
+  ],
   "version": "0.0.1",
   "compatibility": {
     "minimum": "12",
