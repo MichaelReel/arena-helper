@@ -1,0 +1,17 @@
+{
+  "id": "arena-helper",
+  "title": "Arena Helper",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Kurley",
+      "url": "https://github.com/MichaelReel",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/MichaelReel/arena-helper"
+}
