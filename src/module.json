@@ -1,6 +1,7 @@
 {
   "id": "arena-helper",
   "title": "Arena Helper",
+  "description": "Some small tools to aid in creating a series of escalating battles",
   "version": "0.0.1",
   "compatibility": {
     "minimum": "12",
@@ -9,6 +10,7 @@
   "authors": [
     {
       "name": "Kurley",
+      "discord": "Kurley#9143",
       "url": "https://github.com/MichaelReel",
       "flags": {}
     }
